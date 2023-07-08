@@ -4,8 +4,8 @@
 - ⚡ Fun fact: I look cold but once we get to know each other, I talk ... a bit too much!
 - 📫 How to reach me:
    
-     ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook&link=https://www.facebook.com/nmhieu169)
-     ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&link=https://www.instagram.com/__ueih__/)
+     [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook)](https://www.facebook.com/nmhieu169)
+     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram)](https://www.instagram.com/__ueih__/)
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-git-main-ueih16.vercel.app//api/spotify)](https://open.spotify.com/user/yvu01ymhl3ehfgokrdjk1x1ru)
