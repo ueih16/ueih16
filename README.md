@@ -31,3 +31,8 @@
 <br>
 
 ---
+### Development Stats
+[![wakatime](https://wakatime.com/badge/user/b4144b40-a204-40fe-9d8c-eec02206361e.svg)](https://wakatime.com/@b4144b40-a204-40fe-9d8c-eec02206361e)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+
