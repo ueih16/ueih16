@@ -12,21 +12,28 @@
 
 ---
 
+
+### Languages:
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<br>
+<br>
+
+
 ### Tools:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
+<img align='left' height="45" width="45" src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" />
+<img align='left' height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" />
+<img align='left' height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/laragon.svg" />
+<br>
 <br>
 
 ### Libraries and Frameworks:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+<br>
 <br>
 
 ### Databases:
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/microsoftsqlserver.svg" />
-
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
+<img align='left' height="45" width="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" >
 <br>
 <br>
 
@@ -44,8 +51,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ueih16&label=Profile+Views)
-
-
-
 
 
