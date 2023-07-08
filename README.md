@@ -1,8 +1,10 @@
 ### Sup guys 👋
 
 - 💬 Ask me about everything
-- 📫 How to reach me: [![Facebook](https://badgen.net/badge/Facebook/Like/blue?icon=facebook&style=social&link=https://www.facebook.com/nmhieu169)](https://www.facebook.com/nmhieu169)
 - ⚡ Fun fact: I look cold but once we get to know each other, I talk ... a bit too much!
+- 📫 How to reach me:
+<br>
+[![Facebook](https://badgen.net/badge/Facebook/Like/blue?icon=facebook&style=social&link=https://www.facebook.com/nmhieu169)](https://www.facebook.com/nmhieu169)
 
 
 ### Spotify Playing 🎧
