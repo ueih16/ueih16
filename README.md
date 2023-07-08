@@ -1,6 +1,6 @@
 ### Sup guys 👋
 
-- 💬 Ask me about every thing
+- 💬 Ask me about everything
 - 📫 How to reach me: [Facebook](https://www.facebook.com/nmhieu169)
 - ⚡ Fun fact: I look cold but once we get to know each other, I talk ... a bit too much!
 
