@@ -1,4 +1,4 @@
-### Sup guys 👋
+### Sup guys 👋, I'm Hieu
 
 - 💬 Ask me about everything
 - ⚡ Fun fact: I look cold but once we get to know each other, I talk ... a bit too much!
@@ -31,9 +31,21 @@
 <br>
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ueih16&show_icons=true&theme=transparent&count_private=true)
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ueih16&theme=transparent" alt="ueih16" />
+</p>
+
+
 ### Development Stats
+
 [![wakatime](https://wakatime.com/badge/user/b4144b40-a204-40fe-9d8c-eec02206361e.svg)](https://wakatime.com/@b4144b40-a204-40fe-9d8c-eec02206361e)
 
 
 ![](https://komarev.com/ghpvc/?username=ueih16&label=Profile+Views)
+
+
+
+
 
