@@ -6,7 +6,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://ueih16.vercel.app/api/spotify)](https://open.spotify.com/user/yvu01ymhl3ehfgokrdjk1x1ru)
+[![Spotify](https://https://spotify-git-main-ueih16.vercel.app//api/spotify)](https://open.spotify.com/user/yvu01ymhl3ehfgokrdjk1x1ru)
 
 ---
 
