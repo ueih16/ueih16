@@ -6,7 +6,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotifyplaying-git-main-ueih16.vercel.app/" alt="Ueih16 Spotify Playing" width="350" />](https://open.spotify.com/user/yvu01ymhl3ehfgokrdjk1x1ru)
+[![Spotify](https://ueih16.vercel.app/api/spotify)](https://open.spotify.com/user/yvu01ymhl3ehfgokrdjk1x1ru)
 
 ---
 
