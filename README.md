@@ -1,7 +1,7 @@
 ### Sup guys 👋
 
 - 💬 Ask me about everything
-- 📫 How to reach me: ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+- 📫 How to reach me: ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook&logoColor=white)
 - ⚡ Fun fact: I look cold but once we get to know each other, I talk ... a bit too much!
 
 
