@@ -48,7 +48,5 @@
 </p>
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/b4144b40-a204-40fe-9d8c-eec02206361e.svg)](https://wakatime.com/@b4144b40-a204-40fe-9d8c-eec02206361e)
-
 
 
