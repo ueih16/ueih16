@@ -15,6 +15,8 @@
 
 ### Languages:
 <img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" />
 <br>
 <br>
 
@@ -28,12 +30,14 @@
 
 ### Libraries and Frameworks:
 <img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg" />
 <br>
 <br>
 
 ### Databases:
 <img align='left' height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
-<img align='left' height="45" width="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" >
 <br>
 <br>
 
